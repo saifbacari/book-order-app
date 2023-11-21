@@ -3,7 +3,7 @@ import classes from './BooksBanner.module.css';
 const BooksBanner = () => {
     return (
             <section className={classes.summary}>
-                <h2>La librairie en ligne la plus complète en France</h2>
+                <h2>La librairie en ligne la plus complète de France</h2>
                 <p>
                     Une véritable librairie de quartier mais avec les services des grandes enseignes qui tient dans votre smartphone.
                     Nous prônons un nouveau mode de distribution alternatif aux circuits traditionnels tout en protégeant votre librairie de proximité.

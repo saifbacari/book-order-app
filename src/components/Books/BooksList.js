@@ -8,7 +8,7 @@ import classes from './BooksList.module.css';
 const DUMMY_BOOKS = [
   {
     id: "z1",
-    name: "Le monde s'effondre",
+    name: "Le monde s'éffondre",
     author: "Chinua Achebe",
     price: 11.09,
     description:
@@ -16,7 +16,7 @@ const DUMMY_BOOKS = [
   },
   {
     id: "z2",
-    name: "L'aleph",
+    name: "L'Aleph",
     price: 11.99,
     author: "Jorge Luis Borges",
     description:
@@ -40,7 +40,7 @@ const DUMMY_BOOKS = [
   },
   {
     id: "z6",
-    name: "Cent ans des solitude",
+    name: "Cent ans de Solitude",
     price: 9.9,
     Author: "Gabriel Garcia Marquez",
     description:

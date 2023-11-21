@@ -24,7 +24,7 @@ const BookItemForm = (props) => {
       <form className={classes.form} onSubmit={submitHandler}>
         <Input
           ref = {amountInputRef}
-          label="amount"
+          label="Quantité"
           input={{
             id: "amount",
             type: "number",
@@ -34,7 +34,7 @@ const BookItemForm = (props) => {
             defaultValue: "1"
           }}
         />
-        <button>Add +</button>
+        <button>Ajouter +</button>
         {!amountIsValid && <p>Veuillez saisir une quantité entre 1 et 5</p>}
       </form>
     );

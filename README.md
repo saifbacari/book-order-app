@@ -1,30 +1,29 @@
-# News Reader App
+# Bookstar
 
-This project is a simple News Reader application built using React.js and fetching data from the NewsAPI.
+## Overview
+
+Bookstar is a web application built using React that provides a platform for buying and exploring a wide range of books. It offers users the ability to browse, search, and purchase books conveniently.
 
 ## Features
 
-- Displaying top headlines from the NewsAPI.
-- Clickable articles to view more details.
+- **Browse Books:** Explore a diverse collection of books 
+- **Shopping Cart:** Add books to a cart for easy checkout.
+- **Responsive Design:** Ensures a seamless experience across various devices.
+
+## Tech Stack
+
+- **React:** Frontend library for building user interfaces.
+- **JavaScript/JSX:** Language and syntax for React development.
+- **CSS/SCSS:** Styling and design.
+
 
 ## Installation
 
 1. Clone the repository:
 
-git clone https://github.com/saifbacari/api_news_website.git
+   git clone https://github.com/your-username/bookstore-online.git
 
-## Install dependencies
-npm install
-Get your API key from NewsAPI 
+   cd bookstore-online
+   npm install
+   npm start 
 
-## Run the application :
-
-npm start
-This will start the development server. Open you local host in your browser to view the app.
-
-## Usage : 
-
-Once the app is running, you will see the list of top headlines fetched from the NewsAPI. Click on any article to view more details.
-
-## Built With : 
-React - JavaScript library for building user interfaces.
